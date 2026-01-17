@@ -1,0 +1,5 @@
+{
+  "name": "System Resource Monitor",
+  "description": "A real-time system resource monitor visualizing CPU, RAM, and Disk usage with a Python Flask backend.",
+  "requestFramePermissions": []
+}
